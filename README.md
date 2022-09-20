@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning AI for prediction and planning
 
 📫
-Signal Processing & Artificial-intelligence Laboratory
-Hanyang University
-jyyun@spa.hanyang.ac.kr
+- Signal Processing & Artificial-intelligence Laboratory
+- Hanyang University
+- jyyun@spa.hanyang.ac.kr
 
 <!---
 JunyongYun-SPA/JunyongYun-SPA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
