@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Junyong Yun.
 - 👀 I’m interested in Autonomous Driving and Artificial Intelligence.
-- 🌱 I’m currently learning AI for prediction and planning
+- 🌱 I’m currently learning AI for prediction and planning.
 
 
 📫
